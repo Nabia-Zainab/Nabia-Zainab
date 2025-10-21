@@ -16,21 +16,25 @@
 
 ---
 
-### 🙋‍♀️ About Me
-
-Hi, I'm Nabia Zainab 👋. I am a Master of Science in Computer Science student from the **National University of Sciences & Technology (NUST)**, specializing in advanced Artificial Intelligence.
-
-My work is focused on the reliability and application of cutting-edge AI, specifically in **LLMs, Multi-Agent Systems, Vision-Language Models (VLMs), and Agentic AI**. My MS research explores a **Multi-Agent Framework for Zero-Resource Hallucination Detection in LLMs**.
-
-I am actively seeking **PhD positions and challenging research-oriented roles** where I can contribute to solving complex problems at the intersection of advanced AI and practical problem-solving.
+### 🎯 Professional Objective 
+Seeking a challenging position to apply my expertise in **Multi-Agent Systems**, **Multi-Agent Reinforcement Learning**, **Multimodal LLMs**, **Vision-Language Models (VLMs)**, and **Agentic AI systems**. My experience is highlighted by my research on "A Multi-Agent systems for Hallucination Detection," which fuels my aim to contribute to innovative projects at the intersection of advanced AI architectures and practical problem-solving, particularly in areas like multi-agent systems, vision understanding, and intelligent automation.
 
 <br>
 
-* 🔭 I’m currently working on my MS research focused on **Multi-Agent Frameworks for LLM Hallucination Detection**.
+### 🔭 Current Focus & Interests
+* 🔬 Currently engaged in research and development involving **Large Language Models (LLMs), Generative AI, and Multi-Agent Systems***.
 * 👯 I’m looking to collaborate on research projects related to **Multi-Agent Systems**, **Vision-Language Models (VLMs)**, and **LLM Reliability**.
 * 🌱 I’m currently deepening my expertise in advanced **Multi-Agent AI architectures** and **Vision-Language Models**.
+* 💡 Passionate about leveraging AI for practical problem-solving and building robust, intelligent systems.
+
+<br>
+
+### 🔗 Connect & Explore
+* 👨‍💻 All my research and development projects are available on GitHub.
+* 📫 How to reach me: nabiazainab000@gmail.com
+* 📄 Know about my experiences: [**Download my Resume**](Resume.pdf) *
 * 💬 Ask me about: **LLM Hallucination**, **Multi-Agent Systems (Agentic AI)**, **RAG**, or **VLMs**.
-* 📄 Know about my experiences: [**Download my Academic CV**](Academic_CV___Nabia_Zainab.pdf) *(Note: Apne CV ki PDF file isi repository mein upload kar den)*
+* ⚡ Fun fact: I embrace challenges and new experiences, viewing every "failure" as an opportunity to learn and innovate.
 
 <br>
 
