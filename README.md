@@ -99,6 +99,18 @@ My expertise spans a wide range of AI and development tools.
 * **Impact:** Implemented a Retrieval-Augmented Generation (RAG) pipeline that **reduced factual errors by 70%**.
 * **Tools:** `LangChain`, `OpenAI API`, `FAISS`, `Streamlit`.
 
+### 4. Multimodal & Vision-Language Models (VLMs)
+Development and application for tasks like image generation (e.g., AQDress, ImageAAC, AACIcons) and understanding.
+
+### 5. Retrieval Augmented Generation (RAG)
+Building robust Q&A systems and content generators (e.g., IslamQA, MedicalRAG, BlogLM, QABox).
+
+### 6. Model Training & Fine-tuning
+Optimizing LLMs for specific applications (e.g., AbsLLM, PromptOpt, SynData Generator).
+
+### 7. Content Generation
+Automating creation of text, images, and music (e.g., InstaPost, MusicAI, ProductDescrip, ThesisTitle).
+
 ---
 
 ### 📊 My GitHub Stats
