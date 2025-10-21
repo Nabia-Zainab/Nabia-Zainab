@@ -20,7 +20,6 @@
 Seeking a challenging position to apply my expertise in **Multi-Agent Systems**, **Multi-Agent Reinforcement Learning**, **Multimodal LLMs**, **Vision-Language Models (VLMs)**, and **Agentic AI systems**. My experience is highlighted by my research on "A Multi-Agent systems for Hallucination Detection," which fuels my aim to contribute to innovative projects at the intersection of advanced AI architectures and practical problem-solving, particularly in areas like multi-agent systems, vision understanding, and intelligent automation.
 
 ---
-
 <br>
 
 ### 🔭 Current Focus & Interests
@@ -30,7 +29,6 @@ Seeking a challenging position to apply my expertise in **Multi-Agent Systems**,
 * 💡 Passionate about leveraging AI for practical problem-solving and building robust, intelligent systems.
 
 ---
-
 <br>
 
 ### 🔗 Connect & Explore
@@ -41,7 +39,6 @@ Seeking a challenging position to apply my expertise in **Multi-Agent Systems**,
 * ⚡ Fun fact: I embrace challenges and new experiences, viewing every "failure" as an opportunity to learn and innovate.
 
 ---
-
 <br>
 
 ### 🛠️ My Technical Stack
