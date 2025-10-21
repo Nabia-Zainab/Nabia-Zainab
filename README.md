@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="link_to_your_image.png" alt="Nabia Zainab - AI Researcher Banner"/>
+  <img src="image.png" alt="Nabia Zainab - AI Researcher Banner"/>
 </p>
 
 <p align="center">
