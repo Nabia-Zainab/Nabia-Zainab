@@ -84,9 +84,6 @@ My expertise spans a wide range of AI and development tools.
 ---
 
 ### 🚀 Key Research Projects
-
-*Aap yahan apne top 3-4 projects ki repositories ko pin kar sakti hain.*
-
 ### 1. A Multi-Agent Framework for Hallucination Detection
 * **Description:** Designed a novel multi-agent system where "interrogator" agents query an LLM's response to detect factual inconsistencies and hallucinations *without* external knowledge.
 * **Impact:** Developed a coherence scoring mechanism that led to a **40% improvement** in identifying non-factual statements.
