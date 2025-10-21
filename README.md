@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/nabia-zainab](https://www.linkedin.com/in/nabia-zainab-38a911277/)" target="_blank">
+  <a href="[https://linkedin.com/in/nabia-zainab](https://www.linkedin.com/in/nabia-zainab-38a911277/]" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nabia%20Zainab-0077B5?style=flat&logo=linkedin">
   </a>
   <a href="mailto:nabiazainab000@gmail.com">
