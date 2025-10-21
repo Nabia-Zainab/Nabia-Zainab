@@ -117,5 +117,4 @@ Automating creation of text, images, and music (e.g., InstaPost, MusicAI, Produc
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nabia-Zainab&show_icons=true&theme=radical&rank_icon=github" alt="Nabia's GitHub Stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabia-Zainab&layout=compact&theme=radical" alt="Top Languages">
-</p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabia-Zainab&layout=compact&theme=radical&hide=html,css,javascript" alt="Top Languages"></p>
