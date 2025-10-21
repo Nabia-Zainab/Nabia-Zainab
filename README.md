@@ -19,9 +19,9 @@
 ### 🎯 Professional Objective 
 Seeking a challenging position to apply my expertise in **Multi-Agent Systems**, **Multi-Agent Reinforcement Learning**, **Multimodal LLMs**, **Vision-Language Models (VLMs)**, and **Agentic AI systems**. My experience is highlighted by my research on "A Multi-Agent systems for Hallucination Detection," which fuels my aim to contribute to innovative projects at the intersection of advanced AI architectures and practical problem-solving, particularly in areas like multi-agent systems, vision understanding, and intelligent automation.
 
-<br>
-
 ---
+
+<br>
 
 ### 🔭 Current Focus & Interests
 * 🔬 Currently engaged in research and development involving **Large Language Models (LLMs), Generative AI, and Multi-Agent Systems***.
@@ -29,9 +29,9 @@ Seeking a challenging position to apply my expertise in **Multi-Agent Systems**,
 * 🌱 I’m currently deepening my expertise in advanced **Multi-Agent AI architectures** and **Vision-Language Models**.
 * 💡 Passionate about leveraging AI for practical problem-solving and building robust, intelligent systems.
 
-<br>
-
 ---
+
+<br>
 
 ### 🔗 Connect & Explore
 * 👨‍💻 All my research and development projects are available on GitHub.
